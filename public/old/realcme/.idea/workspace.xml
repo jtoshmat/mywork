@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6d190c7-c520-426d-bf33-556734af7fd4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/img/logo-companion.gif" afterPath="$PROJECT_DIR$/realcme/html/img/logo-companion.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/config/config.php" afterPath="$PROJECT_DIR$/api/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/.htaccess" afterPath="$PROJECT_DIR$/realcme/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/CMECommon.php" afterPath="$PROJECT_DIR$/realcme/controllers/CMECommon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/CMECommonController.php" afterPath="$PROJECT_DIR$/realcme/controllers/CMECommonController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/CMETemplateController.php" afterPath="$PROJECT_DIR$/realcme/controllers/CMETemplateController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/ContactUs.php" afterPath="$PROJECT_DIR$/realcme/controllers/ContactUs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/Privacy.php" afterPath="$PROJECT_DIR$/realcme/controllers/Privacy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/Profile.php" afterPath="$PROJECT_DIR$/realcme/controllers/Profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/Termsofuse.php" afterPath="$PROJECT_DIR$/realcme/controllers/Termsofuse.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/api/TestAPI.php" afterPath="$PROJECT_DIR$/realcme/controllers/api/TestAPI.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/common/ContactUsCommon.php" afterPath="$PROJECT_DIR$/realcme/controllers/common/ContactUsCommon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/common/PrivacyCommon.php" afterPath="$PROJECT_DIR$/realcme/controllers/common/PrivacyCommon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/common/ProfileCommon.php" afterPath="$PROJECT_DIR$/realcme/controllers/common/ProfileCommon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/controllers/common/Termsofusecommon.php" afterPath="$PROJECT_DIR$/realcme/controllers/common/Termsofusecommon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/helpers/MY_array_helper.php" afterPath="$PROJECT_DIR$/realcme/helpers/MY_array_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/helpers/rcme_curl_helper.php" afterPath="$PROJECT_DIR$/realcme/helpers/rcme_curl_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/accordion.js" afterPath="$PROJECT_DIR$/realcme/html/js/accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/activity.js" afterPath="$PROJECT_DIR$/realcme/html/js/activity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/charts/d3.v3.min.js" afterPath="$PROJECT_DIR$/realcme/html/js/charts/d3.v3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/creditsandscores.js" afterPath="$PROJECT_DIR$/realcme/html/js/creditsandscores.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/forgot.js" afterPath="$PROJECT_DIR$/realcme/html/js/forgot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/form.js" afterPath="$PROJECT_DIR$/realcme/html/js/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/goals.js" afterPath="$PROJECT_DIR$/realcme/html/js/goals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/login.js" afterPath="$PROJECT_DIR$/realcme/html/js/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/register.js" afterPath="$PROJECT_DIR$/realcme/html/js/register.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/reset.js" afterPath="$PROJECT_DIR$/realcme/html/js/reset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/html/js/restclient.js" afterPath="$PROJECT_DIR$/realcme/html/js/restclient.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/language/english/application_messages_lang.php" afterPath="$PROJECT_DIR$/realcme/language/english/application_messages_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/libraries/CMEDefaultController.php" afterPath="$PROJECT_DIR$/realcme/libraries/CMEDefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/libraries/CMETester.php" afterPath="$PROJECT_DIR$/realcme/libraries/CMETester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/libraries/EZTester.php" afterPath="$PROJECT_DIR$/realcme/libraries/EZTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/libraries/REST_Controller.php" afterPath="$PROJECT_DIR$/realcme/libraries/REST_Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/models/Cmedb.php" afterPath="$PROJECT_DIR$/realcme/models/Cmedb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/models/Ezdb.php" afterPath="$PROJECT_DIR$/realcme/models/Ezdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/auth/bad_request.php" afterPath="$PROJECT_DIR$/realcme/views/auth/bad_request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/auth/forgot_password.php" afterPath="$PROJECT_DIR$/realcme/views/auth/forgot_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/auth/reset_password.php" afterPath="$PROJECT_DIR$/realcme/views/auth/reset_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/cme-template-view.php" afterPath="$PROJECT_DIR$/realcme/views/cme-template-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/common/nav.php" afterPath="$PROJECT_DIR$/realcme/views/common/nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/contact-us.php" afterPath="$PROJECT_DIR$/realcme/views/contact-us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/credits-and-scores-view.php" afterPath="$PROJECT_DIR$/realcme/views/credits-and-scores-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/credits-and-scores.php" afterPath="$PROJECT_DIR$/realcme/views/credits-and-scores.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/email/forgot_password.php" afterPath="$PROJECT_DIR$/realcme/views/email/forgot_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/home-view.php" afterPath="$PROJECT_DIR$/realcme/views/home-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/footer.php" afterPath="$PROJECT_DIR$/realcme/views/inc/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/head.php" afterPath="$PROJECT_DIR$/realcme/views/inc/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/header.php" afterPath="$PROJECT_DIR$/realcme/views/inc/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/inner-nav-guest.php" afterPath="$PROJECT_DIR$/realcme/views/inc/inner-nav-guest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/inner-nav-user.php" afterPath="$PROJECT_DIR$/realcme/views/inc/inner-nav-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/javascript.php" afterPath="$PROJECT_DIR$/realcme/views/inc/javascript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/js/creditsandscores-js.php" afterPath="$PROJECT_DIR$/realcme/views/inc/js/creditsandscores-js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/js/home-js.php" afterPath="$PROJECT_DIR$/realcme/views/inc/js/home-js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/js/login-js.php" afterPath="$PROJECT_DIR$/realcme/views/inc/js/login-js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/js/profile-js.php" afterPath="$PROJECT_DIR$/realcme/views/inc/js/profile-js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/js/register-js.php" afterPath="$PROJECT_DIR$/realcme/views/inc/js/register-js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/inc/nav.php" afterPath="$PROJECT_DIR$/realcme/views/inc/nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/login-view.php" afterPath="$PROJECT_DIR$/realcme/views/login-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/privacy.php" afterPath="$PROJECT_DIR$/realcme/views/privacy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/profile-view.php" afterPath="$PROJECT_DIR$/realcme/views/profile-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/register-view.php" afterPath="$PROJECT_DIR$/realcme/views/register-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/subject-mastery-view.php" afterPath="$PROJECT_DIR$/realcme/views/subject-mastery-view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realcme/views/terms-of-use.php" afterPath="$PROJECT_DIR$/realcme/views/terms-of-use.php" />
+    </list>
+    <ignored path="realcme.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="realcme" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/config/config.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/config/config.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/html/js/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.env.example" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/realcme/config/config.env.example">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/views/home-view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rcme_curl_helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/helpers/rcme_curl_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/controllers/Register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/controllers/Home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realcme/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7300">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/realcme" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/realcme/html/index.php" />
+        <option value="$PROJECT_DIR$/api/config/config.php" />
+        <option value="$PROJECT_DIR$/realcme/config/config.env" />
+        <option value="$PROJECT_DIR$/realcme/views/home-view.php" />
+        <option value="$PROJECT_DIR$/realcme/controllers/Register.php" />
+        <option value="$PROJECT_DIR$/realcme/views/register-view.php" />
+        <option value="$PROJECT_DIR$/api/config/config.env" />
+        <option value="$PROJECT_DIR$/realcme/html/js/register.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="794" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realcme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="126" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="136" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="926" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="126" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="136" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="926" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d190c7-c520-426d-bf33-556734af7fd4" name="Default" comment="" />
+      <created>1465410474852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465410474852</updated>
+      <workItem from="1465410476048" duration="3005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="794" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/realcme/html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3342">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/controllers/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/config/config.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/views/home-view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/helpers/rcme_curl_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/views/register-view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/controllers/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="785" column="9" selection-start-line="785" selection-start-column="9" selection-end-line="785" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/config/config.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/html/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realcme/config/config.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
